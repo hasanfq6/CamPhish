@@ -37,7 +37,7 @@ cd CamPhish
 **New features:**
 ```
 [+] All the instruction is given in the tool
-[+] I have changed festivals.html file to `english`
+[+] I have changed festivals site to `english`
 [+] Remove error on ngrok & serveo.net
 ```
 ### screenshots 
