@@ -34,12 +34,20 @@ cd CamPhish
 ./camphis.sh or bash camphish.sh
 ```
 
+### basic things to do
+```
+ - hotspot must be turn on while generating link
+ - the images will store on the CamPhish directory 
+ - After web cam received move the image to gallery by
+   `mv youimagename.png /sdcard/yourpath`
+```
 **New features:**
 ```
 [+] All the instruction is given in the tool
 [+] I have changed festivals site to `english`
 [+] Remove error on ngrok & serveo.net
 ```
+ ![screenshot]()
 ### screenshots 
  
  ![Screenshot](step1.png)
