@@ -29,7 +29,7 @@
 pkg install git
 pkg install python3
 pkg install lolcat
-git clone https://github.com/Kamanati/CamPhish
+git clone https://github.com/hasanfq6/CamPhish
 cd CamPhish
 ./camphis.sh or bash camphish.sh
 ```
